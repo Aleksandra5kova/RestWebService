@@ -1,0 +1,14 @@
+musala\schoolapp\model\StudentDTO.class
+musala\schoolapp\main\DBSessionFactory.class
+musala\schoolapp\model\School.class
+musala\schoolapp\dao\StudentDao.class
+musala\schoolapp\model\Student.class
+musala\schoolapp\daoImpl\StudentDaoImpl.class
+musala\schoolapp\dao\SubjectDao.class
+musala\schoolapp\service\StudentService.class
+DBSessionFactory.class
+musala\schoolapp\dao\SchoolDao.class
+musala\schoolapp\service\SchoolService.class
+musala\schoolapp\daoImpl\SubjectDaoImpl.class
+musala\schoolapp\model\Subject.class
+musala\schoolapp\daoImpl\SchoolDaoImpl.class
